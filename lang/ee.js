@@ -19,7 +19,7 @@ TRANSLATIONS = {
 	
 	"Custom interval": "",
 	
-	"Unit": "",
+	"Unit": "Masin",
 	
 	"Change interval": "",
 	
