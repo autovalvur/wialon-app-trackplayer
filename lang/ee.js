@@ -1,7 +1,7 @@
 TRANSLATIONS = {
 	"Track player": "Raja esitaja",
 	
-	"Monitoring info": "",
+	"Monitoring info": "Jälgimise info",
 	
 	"Interval": "Intervall",
 	
@@ -9,11 +9,11 @@ TRANSLATIONS = {
 	
 	"Yesterday": "Eile",
 	
-	"Current week": "",
+	"Current week": "See nädal",
 	
-	"Current month": "",
+	"Current month": "See kuu",
 	
-	"7 days": "",
+	"7 days": "7 päeva",
 	
 	"30 days": "",
 	
