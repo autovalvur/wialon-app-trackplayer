@@ -49,59 +49,59 @@ TRANSLATIONS = {
 
 	"Wrong datetime format": "Vigane päeva/aja formaat",
 	
-	"Invalid time interval": "",
+	"Invalid time interval": "Vigane aja intervall",
 	
-	"Select unit": "",
+	"Select unit": "Vali masin",
 	
-	"There is a track for this unit already": "",
+	"There is a track for this unit already": "Selle masina kohta on juba rada",
 	
-	"No messages for the selected interval": "",
+	"No messages for the selected interval": "Andmed puuduvad valitud intervallis",
 	
-	"Unable to build a track": "",
+	"Unable to build a track": "Ei saa rada esitada",
 	
-	"Unable to load trips": "",
+	"Unable to load trips": "Sõitude laadimine ebaõnnestus",
 	
-	"Session error, restart the application": "",
+	"Session error, restart the application": "Perioodi viga, taaskäivita rakendus",
 	
-	"Init messages error": "",
+	"Init messages error": "Sõnumi viga",
 	
-	"Nothing to delete, no tracks for the given unit": "",
+	"Nothing to delete, no tracks for the given unit": "Valitud masinal puuduvad sõidud mida kustutada",
 	
-	"Hide/show track": "",
+	"Hide/show track": "Peida/näita rajad",
 	
-	"Focus on unit": "",
+	"Focus on unit": "Keskendu masinale",
 	
-	"Delete track": "",
+	"Delete track": "Kustuta rada",
 	
-	"Settings": "",
+	"Settings": "Seadistused",
 	
-	"Follow the unit on map": "",
+	"Follow the unit on map": "Jälgi masinat kaardil",
 	
-	"Show/hide pictures": "",
+	"Show/hide pictures": "Näita/peida pildid",
 	
-	"Show/hide parameters": "",
+	"Show/hide parameters": "Näita/peida parameetrid",
 	
-	"Speed": "",
+	"Speed": "Kiirus",
 	
-	"mph": "",
+	"mph": "mph",
 	
 	"kph": "km/h",
 	
-	"miles": "",
+	"miles": "miili",
 	
-	"km": "",
+	"km": "km",
 	
-	"Go to the first message": "",
+	"Go to the first message": "Liigu esimese sõnumi juurde",
 	
-	"Beginning": "",
+	"Beginning": "Algus",
 	
-	"Go to the last message": "",
+	"Go to the last message": "Liigu viimase sõnumi juurde",
 	
-	"End": "",
+	"End": "Lõpp",
 	
-	"Unable to load events": "",
+	"Unable to load events": "Sündmusi ei õnnestunud laadida",
 	
-	"%d events have been found for %s. First 1000 of them will be shown.\nTo see other events, change time interval.": "",
+	"%d events have been found for %s. First 1000 of them will be shown.\nTo see other events, change time interval.": "%d leiti sündmus %s. Esimesed 1000 neist näidatakse.\nEt näha järgmisi sündmusi, muuda aja intervalli.",
 	
 	"January": "",
 	"February": "",
