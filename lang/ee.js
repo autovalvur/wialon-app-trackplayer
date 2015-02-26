@@ -1,13 +1,13 @@
 TRANSLATIONS = {
-	"Track player": "",
+	"Track player": "Raja esitaja",
 	
 	"Monitoring info": "",
 	
-	"Interval": "",
+	"Interval": "Intervall",
 	
-	"Today": "",
+	"Today": "Täna",
 	
-	"Yesterday": "",
+	"Yesterday": "Eile",
 	
 	"Current week": "",
 	
