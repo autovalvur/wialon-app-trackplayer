@@ -15,39 +15,39 @@ TRANSLATIONS = {
 	
 	"7 days": "7 päeva",
 	
-	"30 days": "",
+	"30 days": "30 päeva",
 	
-	"Custom interval": "",
+	"Custom interval": "Valitud intervall",
 	
 	"Unit": "Masin",
 	
-	"Change interval": "",
+	"Change interval": "Muuda intervalli",
 	
-	"Show track": "",
+	"Show track": "Näita rada",
 	
-	"Tracks": "",
+	"Tracks": "Rajad",
 	
-	"Playback speed": "",
+	"Playback speed": "Sõidu esitus kiirus",
 	
-	"Rotate icon": "",
+	"Rotate icon": "Pööra ikooni",
 	
-	"Double-click on necessary sensors below to track them.": "",
+	"Double-click on necessary sensors below to track them.": "Topelt-klõps sensoril, et jälgida neid",
 	
-	"General information": "",
+	"General information": "Üldine info",
 	
-	"Hide settings": "",
+	"Hide settings": "Peida seaded",
 	
-	"Sensors": "",
+	"Sensors": "Sensorid",
 	
-	"Skip intervals between trips": "",
+	"Skip intervals between trips": "Jäta vahele sõitude vaheline intervall",
 	
-	"Prev": "",
+	"Prev": "Eelmine",
 	
-	"Next": "",
+	"Next": "Järgmine",
 	
-	"Login error, restart the application": "",
+	"Login error, restart the application": "Sisselogimine ebaõnnestus, taaskäivita rakendus",
 
-	"Wrong datetime format": "",
+	"Wrong datetime format": "Vigane päeva/aja formaat",
 	
 	"Invalid time interval": "",
 	
